@@ -13,5 +13,5 @@
 - machine learning broadly
 
 ### find me
-- [LinkedIn](https://linkedin.com/in/jay-shukla-34038b277)
-- [X](https://x.com/_jazhaz_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-shukla-34038b277)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_jazhaz_)
