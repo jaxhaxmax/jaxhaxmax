@@ -6,4 +6,4 @@ Interested in AI/ML, Reinforcement Learning, Intelligent Systems, Quant Developm
 
 Building research-driven systems, backend architectures, and AI tooling.
 
-![stats](https://github-readme-stats.vercel.app/api?username=jaxhaxmax&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaxhaxmax&show_icons=true&theme=github_dark&hide_border=true)
