@@ -1,9 +1,17 @@
-# Jay Shukla
+## who I am
+- Jay Shukla
+- CSE undergrad, 2nd year @ IIIT Nagpur
 
-CSE @ IIIT Nagpur
+## currently
+- research intern — time series forecasting for energy consumption
+- building a research platform for deep topic exploration (literature, gaps, decisions)
 
-Interested in AI/ML, Reinforcement Learning, Intelligent Systems, Quant Development, and AI Infrastructure.
+## what I care about
+- reinforcement learning, deeply
+- multi-agent systems
+- machine learning broadly
 
-Building research-driven systems, backend architectures, and AI tooling.
+## find me
+- [LinkedIn](https://linkedin.com/in/jay-shukla-34038b277)
+- [X](https://x.com/_jazhaz_)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaxhaxmax&show_icons=true&theme=github_dark&hide_border=true)
