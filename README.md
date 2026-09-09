@@ -1,6 +1,6 @@
 ### who I am
 - Jay Shukla
-- CSE undergrad, 2nd year @ IIIT Nagpur
+- CSE undergrad, 3rd year @ IIIT Nagpur
 
 ### currently
 - research intern — time series forecasting for energy consumption
